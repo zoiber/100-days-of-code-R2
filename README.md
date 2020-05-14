@@ -39,6 +39,22 @@ Abordar los sigueintes temas:
 
 ---
 -->
+
+
+
+### Día 2: 14 de Mayo, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Se continuo revisando teoría sobre pronósticos.
+
+**Progresos:**
+
+Se reviso teoria sobre variables y típos de pronósticos. Adicionalmente se reviso algunos casos de de estudios. Se actualizo los apuntes.
+
+**Enlcace(s) al trabajo:**
+
+
 ### Día 1: 13 de Mayo, 2020 - Miercoles
 
 **Proyectos de hoy:**
