@@ -5,9 +5,12 @@
 | [Ronda 1 ](https://github.com/zoiber/100-days-of-code-R1) | Este registro
 
 ## Reto y compromiso
-Este reto es parte  de Alexander Kallaway [100DaysOfCode-Repo](https://github.com/Kallaway/100-days-of-code "the official repo"). Para más detalles de este reto puede resivar aquí: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
-**Compromiso:** *Programaré diariamente durante los próximos 100 días.*
+Inicie esta nueva ronda del reto de Alexander Kallaway ([100DaysOfCode-Repo](https://github.com/Kallaway/100-days-of-code "the official repo")) para mejorar mi conocimiento en Machine Learning. 
+
+
+
+**Compromiso:** *Programaré diariamente y revisaré teoria sobre Machine Learning durante los próximos 100 días.*
 
 |  Fecha de inicio   | Fecha de finalización    |
 | ------------- | ------------ |
