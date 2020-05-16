@@ -27,7 +27,6 @@ Abordar los sigueintes temas:
 
 ## Forecasting
 
-
 <!--
 ### Día 1: 11 de Mayo, 2020 - Domingo
 
@@ -40,7 +39,24 @@ Abordar los sigueintes temas:
 ---
 -->
 
+## Avances
 
+### Día 3: 15 de Mayo, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+- Teoria sobre Forescasting, pasos básicos al utilizar estos modelos y la perspectiva que se debe tener en cuenta al realizar pronóstico. Programación de modelos básicos.
+
+**Progresos:**
+
+- Se continuo avanzando sobre la teoria de Forecasting y se programo algunos modelos simples. 
+
+**Enlcace(s) al trabajo:**
+
+[Enlace al trabajo](https://github.com/zoiber/100-days-of-code-R2)
+
+
+---
 
 ### Día 2: 14 de Mayo, 2020 - Jueves
 
@@ -68,5 +84,3 @@ Se reviso el panorama general sonbre Forecasting en [este](https://towardsdatasc
 Decidí inicar este reto en el área de Forecasting, debido a que no es mi fuerte dentro del campo de Machine Learning.
 
 **Enlcace(s) al trabajo:** 
-
-
