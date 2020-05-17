@@ -40,7 +40,29 @@ Abordar los sigueintes temas:
 ---
 -->
 
-## DIARIO
+## DIARIO DE LOS AVANCES
+
+Suviazado exponencial único
+
+### Día 4: 16 de Mayo, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+Se conoció sobre el Single Exponential Smoothing  o EWMA. 
+
+**Progresos:**
+
+Se entendio la diferencia entre suavizado y pronóstico utilizando el suavizado.
+
+**Reflexiones:**
+
+Me tomó mucho tiempo entender sobre suvizado exponencial único, pero bueno mañana trataré de programarlo e implementarlo.
+
+**Enlcace(s) al trabajo:**
+
+[Enlace al trabajo](https://github.com/zoiber/100-days-of-code-R2/blob/master/programas/M%C3%A9todos%20para%20pron%C3%B3stico.ipynb)
+
+---
 
 ### Día 3: 15 de Mayo, 2020 - Viernes
 
