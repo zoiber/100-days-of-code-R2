@@ -42,13 +42,27 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-Suviazado exponencial único
-
-### Día 4: 16 de Mayo, 2020 - Sábado
+### Día 5: 17 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
 
-Se conoció sobre el Single Exponential Smoothing  o EWMA. 
+Se programo Single Exponential Smoothing o EWMA.
+
+**Progresos:**
+
+Se entendio y programó sobre el Single Exponential Smoothing o EWMA
+
+**Enlcace(s) al trabajo:**
+
+[Enlace al trabajo](https://github.com/zoiber/100-days-of-code-R2/tree/master/programas)
+
+### Día 4: 16 de Mayo, 2020 - Sábado
+
+Suviazado exponencial único
+
+**Proyectos de hoy:**
+
+Se conoció sobre el Single Exponential Smoothing  o EWMA.
 
 **Progresos:**
 
