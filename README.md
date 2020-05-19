@@ -42,6 +42,21 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 6: 18 de Mayo, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+El día de hoy se reviso sobre el método de pronóstico Holt-Winters y una breve descripción sobre ARIMA.
+
+**Progresos:**
+
+Se revisó la teoria sobre Forecasting y se programó algunos métodos. 
+
+**Enlcace(s) al trabajo:**
+
+[Enlace al trabajo](https://github.com/zoiber/100-days-of-code-R2/tree/master/programas)
+
+
 ### Día 5: 17 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
