@@ -37,10 +37,46 @@ Abordar los sigueintes temas:
 
 **Enlcace(s) al trabajo:**
 
+**Reflexiones**
+
 ---
 -->
 
 ## DIARIO DE LOS AVANCES
+
+### Día 8: 20 de Mayo, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Revisión de datos del reto M5 Forecasting - Accuracy
+
+**Progresos:**
+
+Se revisó diferentes kernels respecto a EMD  para entender como esta estructurado los datos.
+
+**Enlcace(s) al trabajo:**
+
+
+**Reflexiones**
+
+Tengo pensado dedicar más tiempo al reto de ML.
+
+### Día 7: 19 de Mayo, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Inicio del reto M5 Forecasting - Accuracy.
+
+**Progresos:**
+
+Se revisó la documentación del reto M5 Forecasting - Accuracy. Adcionalmente se consulto algunos notebooks para entender como esta formados los datos.
+
+**Enlcace(s) al trabajo:**
+
+[Enlace reto M5](https://www.kaggle.com/c/m5-forecasting-accuracy/overview)
+
+**Reflexiones**
+
 
 ### Día 6: 18 de Mayo, 2020 - Lunes
 
