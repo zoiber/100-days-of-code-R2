@@ -44,6 +44,23 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 9: 21 de Mayo, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Métodos para pronósticos. 
+
+**Progresos:**
+
+El día de hoy revisé diferentes formas de abordar la solución de pronósticos. Entre estos estan el aprendizaje automático, el aprendizaje profundo y la programación probabilística
+
+**Enlcace(s) al trabajo:**
+
+
+**Reflexiones**
+
+Las cosas van tomando forma poco a poco. Para mi yo del futuro, espero sigas con este enfoque de por vida, ánimo en el Machine Learning comparte lo que te gusta y olvidate de las cosas que pienses, piensa que lo que haces le podría haber gusta a nuestro yo de hace 10 años a tras! Con cariño yo mimsmo.
+
 ### Día 8: 20 de Mayo, 2020 - Miercoles
 
 **Proyectos de hoy:**
@@ -55,7 +72,6 @@ Revisión de datos del reto M5 Forecasting - Accuracy
 Se revisó diferentes kernels respecto a EMD  para entender como esta estructurado los datos.
 
 **Enlcace(s) al trabajo:**
-
 
 **Reflexiones**
 
