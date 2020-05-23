@@ -44,6 +44,22 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 10: 22 de Mayo, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Graficar series temporales aleatorias del reto M5.
+
+**Progresos:**
+
+Se logro graficar algunas series temporales para seleccionar las más interesantes para poder aplicar un algoritmo básico de pronóstico.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones:**
+
+El día de hoy me siento animado para trabajar en ML. Nuevamente me planteo de ser uno de los principales actores de ML en la ciudad.
+
 ### Día 9: 21 de Mayo, 2020 - Jueves
 
 **Proyectos de hoy:**
