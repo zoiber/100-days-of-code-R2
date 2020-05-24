@@ -44,6 +44,22 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 11: 23 de Mayo, 2020 - Sabado
+
+**Proyectos de hoy:**
+
+Se reviso los EDA de diferentes participantes para comprender mejor todo el conjunto de datos.
+
+**Progresos:**
+
+Existe una gran cantindad de series que disponen de ceros ventas en más de la mitad de sus series.
+
+**Reflexiones**
+
+No hay muchas cosas que decir, debo empezar a pronosticar series simples.
+
+**Enlcace(s) al trabajo:**
+
 ### Día 10: 22 de Mayo, 2020 - Viernes
 
 **Proyectos de hoy:**
