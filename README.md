@@ -44,7 +44,23 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-### Día 11: 23 de Mayo, 2020 - Sabado
+### Día 12: 24 de Mayo, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Pronóstico de una serie del reto.
+
+**Progresos:**
+
+Hoy trabaje un poco en el pronóstico de una serie del resto M5. Es importante reducir el ruido para mejorar el pronóstico de nuestras seres.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+Casi caigo en la tentación de la procastinación, pero pude ser más fuerte.
+
+### Día 11: 23 de Mayo, 2020 - Sábado
 
 **Proyectos de hoy:**
 
