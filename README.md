@@ -44,6 +44,22 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 13: 25 de Mayo, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Pronóstico con RF
+
+**Progresos:**
+
+Se utilizó Random Forest para realizar el pronóstico de algunas series del reto M5 - Forecasting. Tambien se agrego algo de ingenieria de atributos para intentar reducir el rmse.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+El día de hoy me sentí un poco desenfocado al comprarme con el resto, y ver como ellos lográn llegar más lejos que yo. A veces siento que algunas deciciones no han sido acertadas. Todo esto es parte de mi desarrollo no importa el tiempo que me tome cumpliré mis objetivos.
+
 ### Día 12: 24 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
