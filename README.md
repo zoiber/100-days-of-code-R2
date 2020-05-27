@@ -44,6 +44,22 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 14: 25 de Mayo, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Preprocesamiento de datos.
+
+**Progresos:**
+
+Se realizó preprocesamiento de datos; reducción de memoria y fusión de diferentes fuentes de datos.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+Mi nivel de ansiedad se ha estabilizado jajaja. Bueno el ser un eneatipo 3 puede ser complejo al emprender y si le sumas el sindrome del inpostor aun más.
+
 ### Día 13: 25 de Mayo, 2020 - Lunes
 
 **Proyectos de hoy:**
