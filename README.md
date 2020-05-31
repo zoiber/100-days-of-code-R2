@@ -44,7 +44,66 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-### Día 14: 25 de Mayo, 2020 - Martes
+### Día 18: 30 de Mayo, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+Feature extraction
+
+**Progresos:**
+
+Se programo la extracción de atributos para abordar el modelado mediante un enfoque de regresión.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 17: 29 de Mayo, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Preprocesamiento de datos
+
+**Progresos:**
+Hoy logré dedicar el mínimo tiempo al preprocesamiento de datos. Retire series temporales con muchos valores iguales a cero. La idea es utiliza modelos de ML para series con muchos datos históricos y modelos estadísticos para series con pocos valores.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 16: 28 de Mayo, 2020 - Jueves 
+
+**Proyectos de hoy:**
+
+Metodología para el modelo de series de tiempo con multiples pasos
+
+**Progresos:**
+
+1. Dividir en dos cojuntos: El primero para artículos que contengan el 80% de datos con ceros y el segundo para los artículos con el 20% de ceros.
+2. Las series con el 20% de ceros deberan ser filtradas utilizando simple exponential smoothing
+2. Crear dos modelos LGBM y un LSTM  para el los datos de  un modelos estadístico para las series con menos datos (o con mayor ceros) 
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+Es un reto complejo, pero cuanto más leo más aprendo sobre el pronóstico y como resolverlo.
+
+### Día 15: 27 de Mayo, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Filtrado de series temporales. 
+
+**Progresos:**
+
+El día de hoy aplique aplique suavizado exponencial simple a las más de 30000 series temporales del reto M5. Esto con el objetivo de reducir el ruido existente.
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 14: 26 de Mayo, 2020 - Martes
 
 **Proyectos de hoy:**
 

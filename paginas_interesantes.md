@@ -10,4 +10,13 @@
 
 [Predicción de series de tiempo con bosque aleatorio](https://www.statworx.com/at/blog/time-series-forecasting-with-random-forest/)
 
+  # Libros
+ [Engineering Statistics Handbook](https://www.itl.nist.gov/div898/handbook/index.htm)
+ [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
+ # Forecasting
+ [Solución del 5to lugar del pronóstico de ventas de comestibles Favorita](https://forums.fast.ai/t/5th-place-solution-of-favorita-grocery-sales-forecasting/10009)
+
+ [Cómo desarrollar modelos de predicción de series temporales LSTM de varios pasos para el uso de energía](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
+
  
