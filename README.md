@@ -44,6 +44,22 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 19: 31 de Mayo, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Predict Future Sales - 1C COMPANY
+
+**Progresos:**
+
+Se entendio los diferentes conjuntos de datos provistos por la empresa rusa 1C COMPANY. 
+
+**Enlcace(s) al trabajo:**
+
+**Reflexiones**
+
+Hoy a sido un día algo complicado, entre el reto M5, el negocio familiar y el 1C-Company el día se me ha ido rápido.
+
 ### Día 18: 30 de Mayo, 2020 - Sábado
 
 **Proyectos de hoy:**
