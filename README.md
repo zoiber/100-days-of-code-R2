@@ -35,7 +35,7 @@ Abordar los sigueintes temas:
 
 **Progresos:**
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 
 ## DIARIO DE LOS AVANCES
+
+### Día 20: 1 de Junio, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Programación de atributos
+
+**Progresos:**
+
+El día de hoy revisé algunos atributos útiles para trabajar con series de tiempo.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
 
 ### Día 19: 31 de Mayo, 2020 - Domingo
 
@@ -70,7 +84,7 @@ Feature extraction
 
 Se programo la extracción de atributos para abordar el modelado mediante un enfoque de regresión.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -83,7 +97,7 @@ Preprocesamiento de datos
 **Progresos:**
 Hoy logré dedicar el mínimo tiempo al preprocesamiento de datos. Retire series temporales con muchos valores iguales a cero. La idea es utiliza modelos de ML para series con muchos datos históricos y modelos estadísticos para series con pocos valores.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -99,7 +113,7 @@ Metodología para el modelo de series de tiempo con multiples pasos
 2. Las series con el 20% de ceros deberan ser filtradas utilizando simple exponential smoothing
 2. Crear dos modelos LGBM y un LSTM  para el los datos de  un modelos estadístico para las series con menos datos (o con mayor ceros) 
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -115,7 +129,7 @@ Filtrado de series temporales.
 
 El día de hoy aplique aplique suavizado exponencial simple a las más de 30000 series temporales del reto M5. Esto con el objetivo de reducir el ruido existente.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -129,7 +143,7 @@ Preprocesamiento de datos.
 
 Se realizó preprocesamiento de datos; reducción de memoria y fusión de diferentes fuentes de datos.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -145,7 +159,7 @@ Pronóstico con RF
 
 Se utilizó Random Forest para realizar el pronóstico de algunas series del reto M5 - Forecasting. Tambien se agrego algo de ingenieria de atributos para intentar reducir el rmse.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -161,7 +175,7 @@ Pronóstico de una serie del reto.
 
 Hoy trabaje un poco en el pronóstico de una serie del resto M5. Es importante reducir el ruido para mejorar el pronóstico de nuestras seres.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
@@ -181,7 +195,7 @@ Existe una gran cantindad de series que disponen de ceros ventas en más de la m
 
 No hay muchas cosas que decir, debo empezar a pronosticar series simples.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 ### Día 10: 22 de Mayo, 2020 - Viernes
 
@@ -193,7 +207,7 @@ Graficar series temporales aleatorias del reto M5.
 
 Se logro graficar algunas series temporales para seleccionar las más interesantes para poder aplicar un algoritmo básico de pronóstico.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones:**
 
@@ -226,7 +240,7 @@ Revisión de datos del reto M5 Forecasting - Accuracy
 
 Se revisó diferentes kernels respecto a EMD  para entender como esta estructurado los datos.
 
-**Enlcace(s) al trabajo:**
+**Enlace(s) al trabajo:**
 
 **Reflexiones**
 
