@@ -44,6 +44,21 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 21: 11 de Junio, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Ingeniería de atributos
+
+**Progresos:**
+
+Convertí mis series temporales discontinuas (no existe ventas de ciertos días) en series continuas, la idea fue crear una matriz con los productos (fil) vendidos por cada día(col) desde la fecha de recolección. 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+
 ### Día 20: 1 de Junio, 2020 - Lunes
 
 **Proyectos de hoy:**
