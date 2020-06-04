@@ -44,7 +44,23 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-### Día 21: 11 de Junio, 2020 - Martes
+### Día 22: 03 de Junio, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Transformación de datos
+
+**Progresos:**
+
+El dia de hoy revise me puse realizar una transformación de mi datos originales a un formato más amigable para el modelado.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+Es necesario trabajar con multiprocesamiento para reducir los tiempos de prepreocesamiento.
+
+### Día 21: 02 de Junio, 2020 - Martes
 
 **Proyectos de hoy:**
 
