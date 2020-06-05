@@ -44,7 +44,23 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-### Día 22: 03 de Junio, 2020 - Lunes
+### Día 23: 04 de Mayo, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Procesamiento paralelo
+
+**Progresos:**
+
+Hoy realice un programa para aplicar procesamiento paralelo en mis datos. Se necesitaba realizar diferentes transformaciones al dataset de esta forma se logro reducir el tiempo notablemente.
+
+**Reflexiones**
+
+Es importante buscar diferentes soluciones para un mismo problema, no te rindas si algo no sale a la primera.
+
+**Enlace(s) al trabajo:**
+
+### Día 22: 03 de Junio, 2020 - Miércoles
 
 **Proyectos de hoy:**
 
