@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 24 y 25: 05 y 06 de Mayo, 2020 - Viernes y Sábado
+
+**Proyectos de hoy:**
+
+Limpieza de datos y procesamiento paralelo.
+
+**Progresos:**
+
+Se logró limpiar los datos fuera de fecha, ventas negativas y fechas duplicadas. Finalmente se aplicó cálculo en paralelo para la etapa de preprocesamiento.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 23: 04 de Mayo, 2020 - Jueves
 
 **Proyectos de hoy:**
