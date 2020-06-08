@@ -44,6 +44,22 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 26: 07 de Mayo, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Fusión de datos.
+
+**Progresos:**
+
+Se fusionaron datos de ventas con diferentes tipos de tiendas, categoría de productos y precios. Todo esto para reto de Kaggle https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+---
+
 ### Día 24 y 25: 05 y 06 de Mayo, 2020 - Viernes y Sábado
 
 **Proyectos de hoy:**
