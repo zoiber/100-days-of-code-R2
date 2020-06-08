@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 27: 08 de Mayo, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Reducción de memoria
+
+**Progresos:**
+
+EL día de hoy se programa una función para la reducción de memoria de los dataframe, cuando dispones recursos limitados es importante optimizar tus datos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 26: 07 de Mayo, 2020 - Domingo
 
 **Proyectos de hoy:**
