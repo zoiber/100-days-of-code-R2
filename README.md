@@ -44,7 +44,33 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-### Día 27: 08 de Mayo, 2020 - Lunes
+### Día 31: 12 de Mayo, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Programación de la extracción de atributos.
+
+**Progresos:**
+
+Se continuó con la programación de atributos, agregando nuevas caracteristicas a este proceso de extracción
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 28,29 y 30: 9,10 y 11 de Mayo, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Preparación de la charla "Inteligencia artificial - Mitos y verdades"
+
+**Progresos:**
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 27: 08 de Junio, 2020 - Lunes
 
 **Proyectos de hoy:**
 
@@ -58,7 +84,7 @@ EL día de hoy se programa una función para la reducción de memoria de los dat
 
 **Reflexiones**
 
-### Día 26: 07 de Mayo, 2020 - Domingo
+### Día 26: 07 de Junio, 2020 - Domingo
 
 **Proyectos de hoy:**
 
@@ -74,7 +100,7 @@ Se fusionaron datos de ventas con diferentes tipos de tiendas, categoría de pro
 
 ---
 
-### Día 24 y 25: 05 y 06 de Mayo, 2020 - Viernes y Sábado
+### Día 24 y 25: 05 y 06 de Junio, 2020 - Viernes y Sábado
 
 **Proyectos de hoy:**
 
@@ -88,7 +114,7 @@ Se logró limpiar los datos fuera de fecha, ventas negativas y fechas duplicadas
 
 **Reflexiones**
 
-### Día 23: 04 de Mayo, 2020 - Jueves
+### Día 23: 04 de Junio, 2020 - Jueves
 
 **Proyectos de hoy:**
 
