@@ -29,7 +29,7 @@ Abordar los sigueintes temas:
 ## Forecasting
 
 <!--
-### Día 1: 11 de Mayo, 2020 - Domingo
+### Día 1: 11 de Junio, 2020 - Domingo
 
 **Proyectos de hoy:**
 
@@ -44,7 +44,21 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
-### Día 31: 12 de Mayo, 2020 - Viernes
+### Día 32: 13 de Junio, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+Corrección de errores.
+
+**Progresos:**
+
+El día de hoy pasé arreglando el código de preprocesamiento de datos, algunos días se borraban durante el proceso. El problema quedó soluciando
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 31: 12 de Junio, 2020 - Viernes
 
 **Proyectos de hoy:**
 
@@ -58,7 +72,7 @@ Se continuó con la programación de atributos, agregando nuevas caracteristicas
 
 **Reflexiones**
 
-### Día 28,29 y 30: 9,10 y 11 de Mayo, 2020 - Domingo
+### Día 28, 29 y 30: 9,10 y 11 de Junio, 2020 - Domingo
 
 **Proyectos de hoy:**
 
