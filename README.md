@@ -44,6 +44,21 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 33: 14 de Junio, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Modelado
+
+**Progresos:**
+
+Se abordo el problema de pronóstico utilizando mediante una estrategía de regresión. Para esto se utilizó Light Gradient Boosting mañana enviare los resultados al reto de #kaggle. 
+
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 32: 13 de Junio, 2020 - Sábado
 
 **Proyectos de hoy:**
