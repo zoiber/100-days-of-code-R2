@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 34: 15 de Junio, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Conocer sobre el framework
+
+**Progresos:**
+
+Hoy trabaje en un proyecto paralelo sobre ML en trading, revise el framework Backtesting.py 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 33: 14 de Junio, 2020 - Domingo
 
 **Proyectos de hoy:**
