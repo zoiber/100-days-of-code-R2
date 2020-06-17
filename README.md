@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 35: 16 de Junio, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Evaluación del modelo
+
+**Progresos:**
+
+El día de hoy se realizó la evaluación del modelo. Se consiguió un RMSE muy bajo. Siguiente paso entrenar mi modelo aplicando un estrategía de #crossvalidation aplicando k-folds.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 34: 15 de Junio, 2020 - Lunes
 
 **Proyectos de hoy:**
