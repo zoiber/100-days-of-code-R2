@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 36: 17 de Junio, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Ingeniería de atributos
+
+**Progresos:**
+
+Hoy revise algunos atributos interesantes para programarlos en el futuro.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 35: 16 de Junio, 2020 - Martes
 
 **Proyectos de hoy:**
