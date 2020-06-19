@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 37: 18 de Junio, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Sumisión reto Kaggle
+
+**Progresos:**
+
+El día de hoy envie mi resultados de pronóstico para el reto de Kaggle "Predict Future Sales". Puesto actual 1477, veamos cual es el puesto en el futuro.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 36: 17 de Junio, 2020 - Miercoles
 
 **Proyectos de hoy:**
