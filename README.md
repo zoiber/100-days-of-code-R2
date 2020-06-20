@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 38: 19 de Junio, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Ensamble model
+
+**Progresos:**
+
+El día de hoy realice un método de ensamble simple entre LGB y XGB. Para el reto de #kaggle. 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 37: 18 de Junio, 2020 - Jueves
 
 **Proyectos de hoy:**
