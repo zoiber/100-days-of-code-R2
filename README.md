@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 39-40: 20-21 de Junio, 2020 - Sábado y Domingo
+
+**Proyectos de hoy:**
+
+Dashboard para trading con Mahine Learning
+
+**Progresos:**
+
+Se trabajo en la creación de un dashboard para la implementación de Machine Learning.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 38: 19 de Junio, 2020 - Viernes
 
 **Proyectos de hoy:**
