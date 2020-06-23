@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 41: 22 de Junio, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Extracción de atributos
+
+**Progresos:**
+
+Se realizó la extracción de atributos de series temporales en el mercado de Forex.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 39-40: 20-21 de Junio, 2020 - Sábado y Domingo
 
 **Proyectos de hoy:**
