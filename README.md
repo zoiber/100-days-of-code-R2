@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 42-43: 23-24 de Junio, 2020 - Martes y Miercoles
+
+**Proyectos de hoy:**
+
+Aplicacion ML para Trading.
+
+**Progresos:**
+
+Se empezo a revisar el framework de BackTrader para la aplicar un modelo de ML en trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 41: 22 de Junio, 2020 - Lunes
 
 **Proyectos de hoy:**
