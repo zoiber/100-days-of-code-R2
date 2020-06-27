@@ -44,6 +44,34 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 44: 26 de Junio, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Socializando el conocimiento
+
+**Progresos:**
+
+El día de hoy escribí algunas recomendaciones relacionadas a ML para gente que inicia en este nuevo mundo. Pensé que me tomaria un par de minutos pero se fue cerca de una hora.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 43: 25 de Junio, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Framework Backtrader
+
+**Progresos:**
+
+Se revisó la documentación del framework Backtrader, para saber como integrar mi modelo de ML a una estrategia de trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 42-43: 23-24 de Junio, 2020 - Martes y Miercoles
 
 **Proyectos de hoy:**
