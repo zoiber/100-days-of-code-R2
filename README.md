@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 45-46: 27-28 de Junio, 2020 - Sábado-Domingo
+
+**Proyectos de hoy:**
+
+ML en trading
+
+**Progresos:**
+
+Se integro un modelo de ML para la obtención de indicador a ser utilizado en trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 44: 26 de Junio, 2020 - Viernes
 
 **Proyectos de hoy:**
