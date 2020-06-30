@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 47: 29 de Junio, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+ML en trading
+
+**Progresos:**
+
+Hoy nada nuevo, revise algun método calcular mi indicador de forma vectorial y evitar el proceso iterativo.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 45-46: 27-28 de Junio, 2020 - Sábado-Domingo
 
 **Proyectos de hoy:**
