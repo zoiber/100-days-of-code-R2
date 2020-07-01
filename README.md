@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 48: 30 de Junio, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Indicador de trading
+
+**Progresos:**
+
+Pasé corregiendo la carga de datos para la generación automática de un indicador para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 47: 29 de Junio, 2020 - Lunes
 
 **Proyectos de hoy:**
