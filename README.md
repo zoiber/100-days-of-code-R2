@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 49: 01 de Julio, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Indicador para trading
+
+**Progresos:**
+
+El día de hoy terminde de organizar el código respecto al indicador para trading utilizando ML.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 48: 30 de Junio, 2020 - Martes
 
 **Proyectos de hoy:**
