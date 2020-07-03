@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 50: 02 de Julio, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Indicador para trading
+
+**Progresos:**
+
+El día de hoy aplique una estrategia para trading utilizando un modelo de ML que me indica cuando comprar y cuando vender. Creo que debo aprender más sobre trading, en fin son los primeros pasos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 49: 01 de Julio, 2020 - Miercoles
 
 **Proyectos de hoy:**
