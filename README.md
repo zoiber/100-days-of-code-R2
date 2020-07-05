@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 51-52: 03-04 de Julio, 2020 - Viernes y Sábado
+
+**Proyectos de hoy:**
+
+ML para trading
+
+**Progresos:**
+
+Se trabajo en la correción de la estrategía para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 50: 02 de Julio, 2020 - Jueves
 
 **Proyectos de hoy:**
