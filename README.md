@@ -44,6 +44,21 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 53-54: 05-06 de Julio, 2020 - Domingo-Lunes
+
+**Proyectos de hoy:**
+
+Trading con ML
+
+**Progresos:**
+
+Estos días pasaba depurando el código para la implementación de machine learning en trading. 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+
 ### Día 51-52: 03-04 de Julio, 2020 - Viernes y Sábado
 
 **Proyectos de hoy:**
