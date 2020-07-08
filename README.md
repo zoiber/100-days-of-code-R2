@@ -44,6 +44,20 @@ Abordar los sigueintes temas:
 
 ## DIARIO DE LOS AVANCES
 
+### Día 55: 07 de Julio, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Trading con ML
+
+**Progresos:**
+
+El día de hoy pase arreglando las etiquetas del dashboard para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 53-54: 05-06 de Julio, 2020 - Domingo-Lunes
 
 **Proyectos de hoy:**
