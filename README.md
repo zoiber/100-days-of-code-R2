@@ -41,8 +41,21 @@ Abordar los sigueintes temas:
 
 ---
 -->
-
 ## DIARIO DE LOS AVANCES
+
+### Día 56,57,58: 08,09 y 10 de Julio, 2020 - Miercoles, Jueves y Viernes
+
+**Proyectos de hoy:**
+
+Métricas para trading
+
+**Progresos:**
+
+He pasado entendiendo y buscando métricas que puedan ser útiles para evaluar el rendimiento de la estrategia con machine learning implementada para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
 
 ### Día 55: 07 de Julio, 2020 - Martes
 
