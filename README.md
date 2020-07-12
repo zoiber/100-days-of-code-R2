@@ -43,6 +43,22 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 59: 11 de Julio, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+Trading con Machine Learning
+
+**Progresos:**
+
+El día de revise documentación sobre TrailingOrders para trading. Ayudará a mejorar el resultado del modelo de #machinelearning.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+---
+
 ### Día 56,57,58: 08,09 y 10 de Julio, 2020 - Miercoles, Jueves y Viernes
 
 **Proyectos de hoy:**
