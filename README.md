@@ -43,6 +43,36 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 61-62: 13-14 de Julio, 2020 - Lunes y Martes
+
+**Proyectos de hoy:**
+
+Trading con Machine Learning
+
+**Progresos:**
+
+Me pase entendiendo como aplicar stoptrail, en la estrategia para #trading. Lo interesante es que sin utilizar el stoptrail el modelo de #ML, que dirige la estrategía, obtine un mejor rendimiento.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+Estos días me he sentido cansado, el trabajo me ha consumido mucho tiempo y los proyectos propios avanzan lentamente.
+
+### Día 60: 12 de Julio, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Trading con Machine Learning
+
+**Progresos:**
+
+Hoy se contiuno con la depuración del código para implementar #MachineLearning  para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 59: 11 de Julio, 2020 - Sábado
 
 **Proyectos de hoy:**
