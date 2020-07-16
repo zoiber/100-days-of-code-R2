@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 63: 15 de Julio, 2020 - Miércoles
+
+**Proyectos de hoy:**
+
+Trading con Machine Learning
+
+**Progresos:**
+
+Se trabajo en la generación de dashboard para evaluaciones por trimestre del modelo de ML para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 61-62: 13-14 de Julio, 2020 - Lunes y Martes
 
 **Proyectos de hoy:**
