@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 64: 16 de Julio, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Generación de Dashboard
+
+**Progresos:**
+
+Se generó algunos dashboard para evaluar el modelo ML para trading.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 63: 15 de Julio, 2020 - Miércoles
 
 **Proyectos de hoy:**
