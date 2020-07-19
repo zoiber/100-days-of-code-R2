@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 66: 19 de Julio, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Reto de Kaggle "Predict Future Sales"
+
+**Progresos:**
+
+Se retomó el reto de kaggle "Predict Future Sales".
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 65: 18 de Julio, 2020 - Sábado
 
 **Proyectos de hoy:**
