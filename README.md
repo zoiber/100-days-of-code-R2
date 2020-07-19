@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 65: 18 de Julio, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+Forecasting
+
+**Progresos:**
+
+El día de hoy revise sobre valores atípicos en series de tiempo para forecasting en el reto #kaggle Predict Future Sales.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 64: 16 de Julio, 2020 - Jueves
 
 **Proyectos de hoy:**
