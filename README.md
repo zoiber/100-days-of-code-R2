@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 67: 20 de Julio, 2020 - Lunes
+
+**Proyectos de hoy:**
+
+Reto de Kaggle "Predict Future Sales"
+
+**Progresos:**
+
+El día de hoy se trabajo en la codificación de algunos atributos para el reto de #Kaggle "Predict Future Sales".
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 66: 19 de Julio, 2020 - Domingo
 
 **Proyectos de hoy:**
