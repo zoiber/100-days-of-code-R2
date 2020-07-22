@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 68: 11 de Junio, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Reto de Kaggle "Predict Future Sales"
+
+**Progresos:**
+
+Continue con la creación de nuevos atributos para el reto de #kaggle "Predict Future Sales".
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 67: 20 de Julio, 2020 - Lunes
 
 **Proyectos de hoy:**
