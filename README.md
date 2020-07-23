@@ -43,7 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
-### Día 68: 11 de Junio, 2020 - Domingo
+### Día 69: 22 de Julio, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Reto de Kaggle "Predict Future Sales"
+
+**Progresos:**
+
+Hoy nada nuevo empece a revisar el framework Dash. 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 68: 21 de Julio, 2020 - Domingo
 
 **Proyectos de hoy:**
 
