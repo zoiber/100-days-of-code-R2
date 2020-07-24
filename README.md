@@ -43,7 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
-### Día 69: 22 de Julio, 2020 - Domingo
+### Día 70: 23 de Julio, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Bot con machine learning
+
+**Progresos:**
+
+El día de hoy revise algunos ejemplos de bot implementados potenciados con machine learning.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 69: 22 de Julio, 2020 - Miercoles
 
 **Proyectos de hoy:**
 
