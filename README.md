@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 71-72-73-74: 24-25-26-27 de Julio, 2020 - Viernes-Sábado-Domingo
+
+**Proyectos de hoy:**
+
+Bot con machine learning
+
+**Progresos:**
+
+Estos días he pasado revisando documentación de flask, selenium y otros framewroks y algunos ejemplos de bots para poder crear el mio propio.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 70: 23 de Julio, 2020 - Jueves
 
 **Proyectos de hoy:**
