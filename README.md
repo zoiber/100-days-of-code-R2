@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 75: 28 de Julio, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Bot con machine learning
+
+**Progresos:**
+
+El día de hoy trabaje en la creación de un bot muy básico para WhatsApp utilizando el Selenium.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 71-72-73-74: 24-25-26-27 de Julio, 2020 - Viernes-Sábado-Domingo
 
 **Proyectos de hoy:**
