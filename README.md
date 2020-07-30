@@ -43,6 +43,22 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 76: 28 de Julio, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Bot con Machine Learning
+
+**Progresos:**
+
+El día de hoy creé una interfaz para el bot con ML, utilizando Dash (ploty).
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+Me he dado cuenta que si dejo de centrarme en lo que quiero conseguir y me centro en como ayudar al resto a mejorar puedes ir descubriendo muchos problemas a los cuales puedes dar solución.
+
 ### Día 75: 28 de Julio, 2020 - Martes
 
 **Proyectos de hoy:**
@@ -56,6 +72,8 @@ El día de hoy trabaje en la creación de un bot muy básico para WhatsApp utili
 **Enlace(s) al trabajo:**
 
 **Reflexiones**
+
+Estos último días he estado centrandome en aprender cosas pequeñas pero nuevas, que sirvan para reforzar mi conocimiento en ML.
 
 ### Día 71-72-73-74: 24-25-26-27 de Julio, 2020 - Viernes-Sábado-Domingo
 
