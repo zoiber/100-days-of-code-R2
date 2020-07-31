@@ -43,7 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
-### Día 76: 28 de Julio, 2020 - Domingo
+### Día 77: 30 de Julio, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Bot con Machine Learning
+
+**Progresos:**
+
+El día de hoy revisé sobre pipenv, realice algunas pruebas y configuraciones de mis entornos virtuales para organizar mejor mis proyectos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 76: 29 de Julio, 2020 - Miercoles
 
 **Proyectos de hoy:**
 
