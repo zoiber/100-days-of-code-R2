@@ -43,6 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 78: 31 de Julio, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Bot con ML
+
+**Progresos:**
+
+El día de hoy continue trabajando en mi bot  actualmente responde algunas cosas básicas. 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+
 ### Día 77: 30 de Julio, 2020 - Jueves
 
 **Proyectos de hoy:**
