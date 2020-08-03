@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 79-90: 1-2 de Agosto, 2020 - Sábado - Domingo
+
+**Proyectos de hoy:**
+
+Bot con ML
+
+**Progresos:**
+
+Estos días pase revisando documentación para implemenar un con ML.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 78: 31 de Julio, 2020 - Viernes
 
 **Proyectos de hoy:**
