@@ -43,7 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
-### Día 79-90: 1-2 de Agosto, 2020 - Sábado - Domingo
+### Día 81-82: 3-4 de Agosto, 2020 - Lunes y Martes
+
+**Proyectos de hoy:**
+
+Bot con ML
+
+**Progresos:**
+
+Se revisó sobre cómo resolver problemas de lematización en español.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 79-80: 1-2 de Agosto, 2020 - Sábado - Domingo
 
 **Proyectos de hoy:**
 
