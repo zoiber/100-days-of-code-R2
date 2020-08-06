@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 83: 5 de Agosto, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Bot con ML.
+
+**Progresos:**
+
+El día de hoy revise alguno chatbot realizados para entender su estructura.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 81-82: 3-4 de Agosto, 2020 - Lunes y Martes
 
 **Proyectos de hoy:**
