@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 84: 9 de Agosto, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+ML para trading.
+
+**Progresos:**
+
+El día de hoy trabaje en ML para trading, implementando algunos indicadores.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 83: 5 de Agosto, 2020 - Miercoles
 
 **Proyectos de hoy:**
