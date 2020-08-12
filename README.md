@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 85,86,87: 10,11,12 de Junio, 2020 - Lunes, Martes, Miercoles
+
+**Proyectos de hoy:**
+
+Bot para ML
+
+**Progresos:**
+
+Estos días he pasado corrigiendo algunos errores, y revisando indicadores para mejorar el dashboard de análisis.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 84: 9 de Agosto, 2020 - Domingo
 
 **Proyectos de hoy:**
