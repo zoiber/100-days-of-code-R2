@@ -43,7 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
-### Día 85,86,87: 10,11,12 de Junio, 2020 - Lunes, Martes, Miercoles
+### Día 88: 13 de Agosto, 2020 - Jueves.
+
+**Proyectos de hoy:**
+
+Lectura sobre Data Science
+
+**Progresos:**
+
+El día de hoy he empezado a leer el libro A Hands-On Introduction to Data Science de Chirag Shah para poder reforzar y recordar conocimientos sobre este bello campo.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 85,86,87: 10,11,12 de Agosto, 2020 - Lunes, Martes, Miercoles
 
 **Proyectos de hoy:**
 
