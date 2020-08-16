@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 89,90: 13,15 de Agosto, 2020 - Viernes, Sábado
+
+**Proyectos de hoy:**
+
+Revisión de teoria
+
+**Progresos:**
+
+Estos días he pasado revisando teoria relacionada a data science y machine learning.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 88: 13 de Agosto, 2020 - Jueves.
 
 **Proyectos de hoy:**
