@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 91,92: 16,17 de Agosto, 2020 - Domingo y Lunes
+
+**Proyectos de hoy:**
+
+Revisión de teoria
+
+**Progresos:**
+
+El dia de hoy he revisado sobre los datos; tipos, fuentes de recolección (publicos, redes sociales o mulitmodales)
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 89,90: 13,15 de Agosto, 2020 - Viernes, Sábado
 
 **Proyectos de hoy:**
