@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 93: 18 de Agosto, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Revisión de teoria
+
+**Progresos:**
+
+El día de hoy di un repaso respecto a los datos; formatos de alamacenamiento y su preprocesamiento.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 91,92: 16,17 de Agosto, 2020 - Domingo y Lunes
 
 **Proyectos de hoy:**
