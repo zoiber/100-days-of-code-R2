@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 94: 19 de Agosto, 2020 - Miercoles
+
+**Proyectos de hoy:**
+
+Revisión de teoria
+
+**Progresos:**
+
+Hoy se trabajo sobre el pre-procesamiento de datos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 93: 18 de Agosto, 2020 - Martes
 
 **Proyectos de hoy:**
