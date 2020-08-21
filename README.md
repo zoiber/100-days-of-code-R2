@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 95: 20 de Agosto, 2020 - Jueves
+
+**Proyectos de hoy:**
+
+Revisión de teoria
+
+**Progresos:**
+
+Se revisó sobre integración, reducción y discretización de datos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 94: 19 de Agosto, 2020 - Miercoles
 
 **Proyectos de hoy:**
