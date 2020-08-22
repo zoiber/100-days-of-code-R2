@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 96: 21 de Agosto, 2020 - Viernes
+
+**Proyectos de hoy:**
+
+Revisión de teoria
+
+**Progresos:**
+
+El día de hoy realice ejercicios respecto al preprocesamiento de datos. Tomando en cuenta los valores atípicos, filtrado, estandarización, etc.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 95: 20 de Agosto, 2020 - Jueves
 
 **Proyectos de hoy:**
