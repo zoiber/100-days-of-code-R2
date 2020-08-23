@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 97: 22 de Agosto, 2020 - Sábado
+
+**Proyectos de hoy:**
+
+Revisión teorica
+
+**Progresos:**
+
+Hoy continue con los ejercicios relacionados a ciencia de datos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 96: 21 de Agosto, 2020 - Viernes
 
 **Proyectos de hoy:**
