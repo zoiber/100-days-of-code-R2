@@ -43,6 +43,20 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
+### Día 98: 23 de Agosto, 2020 - Domingo
+
+**Proyectos de hoy:**
+
+Revisión teorica
+
+**Progresos:**
+
+Hoy revisé sobre el Análisis Descriptivo, una ténicas utilizada para entender nuestros datos.
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
 ### Día 97: 22 de Agosto, 2020 - Sábado
 
 **Proyectos de hoy:**
