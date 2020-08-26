@@ -43,7 +43,21 @@ Abordar los sigueintes temas:
 -->
 ## DIARIO DE LOS AVANCES
 
-### Día 99: 24 de Agosto, 2020 - Luness
+### Día 100: 25 de Agosto, 2020 - Martes
+
+**Proyectos de hoy:**
+
+Revisión teórica
+
+**Progresos:**
+
+El día de hoy recorde sobre distribuciones. 
+
+**Enlace(s) al trabajo:**
+
+**Reflexiones**
+
+### Día 99: 24 de Agosto, 2020 - Lunes
 
 **Proyectos de hoy:**
 
